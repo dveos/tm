@@ -1,4 +1,4 @@
-body.janus #auxCol {
+td#auxCol {
     padding-left: 24px !important;
     display: none !important;
 }
